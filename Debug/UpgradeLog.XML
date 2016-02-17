@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="game_shakal">
+</Property><Property Name="Файл решения" Value="C:\Users\Air\Desktop\game_shakal\game_shakal.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Users\Air\Desktop\game_shakal\game_shakal.suo">
+</Property><Property Name="Date" Value="19 мая 2015 г.">
+</Property><Property Name="Time" Value="17:41">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="game_shakal.sln" Description="Успешно создана резервная копия файла C:\Users\Air\Desktop\game_shakal\game_shakal.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="game_shakal.suo" Description="Успешно создана резервная копия файла C:\Users\Air\Desktop\game_shakal\game_shakal.suo.old">
+</Event><Event ErrorLevel="0" Project="game_shakal" Source="game_shakal\game_shakal.vcproj" Description="Converting project file 'C:\Users\Air\Desktop\game_shakal\game_shakal\game_shakal.vcproj'.">
+</Event><Event ErrorLevel="1" Project="game_shakal" Source="game_shakal\game_shakal.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="game_shakal" Source="game_shakal\game_shakal.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="game_shakal" Source="game_shakal\game_shakal.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="game_shakal" Source="game_shakal\game_shakal.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="game_shakal" Source="game_shakal\game_shakal.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="game_shakal" Source="game_shakal\game_shakal.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="game_shakal" Source="game_shakal\game_shakal.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="game_shakal" Source="game_shakal\game_shakal.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="game_shakal" Source="game_shakal\game_shakal.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="game_shakal" Source="game_shakal\game_shakal.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="game_shakal" Source="game_shakal\game_shakal.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="game_shakal" Source="game_shakal\game_shakal.vcproj" Description="Done converting to new project file 'C:\Users\Air\Desktop\game_shakal\game_shakal\game_shakal.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="game_shakal" Source="game_shakal\game_shakal.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="game_shakal.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="game_shakal.sln" Description="Converted">
+</Event></UpgradeLog>
